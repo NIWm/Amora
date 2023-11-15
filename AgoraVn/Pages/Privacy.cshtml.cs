@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace AgoraVn.Pages
+namespace AmoraVN.Pages
 {
     public class PrivacyModel : PageModel
     {

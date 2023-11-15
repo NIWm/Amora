@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\q0903\\source\\repos\\AgoraVn\\AgoraVn\\AgoraVn.csproj",
-      "projectName": "AgoraVn",
-      "projectPath": "C:\\Users\\q0903\\source\\repos\\AgoraVn\\AgoraVn\\AgoraVn.csproj",
+      "projectUniqueName": "C:\\Users\\q0903\\source\\repos\\AgoraVn\\AgoraVn\\AmoraVN.csproj",
+      "projectName": "AmoraVN",
+      "projectPath": "C:\\Users\\q0903\\source\\repos\\AgoraVn\\AgoraVn\\AmoraVN.csproj",
       "packagesPath": "C:\\Users\\q0903\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\q0903\\source\\repos\\AgoraVn\\AgoraVn\\obj\\",
       "projectStyle": "PackageReference",
