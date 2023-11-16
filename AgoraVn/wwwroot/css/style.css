@@ -420,7 +420,7 @@ a:focus {
 
 .saving_section .box {
   padding-top: 20px;
-  background-color: rgb(233, 194, 194);
+  background-color: rgb(206, 177, 177);
   color: #ffffff;
   border-radius: 15px;
 }
@@ -521,7 +521,7 @@ a:focus {
 }
 
 .gift_section .box {
-  background-color: #9876b8;
+  background-color: rgb(206, 177, 177);
   border-radius: 15px;
   color: #ffffff;
 }
